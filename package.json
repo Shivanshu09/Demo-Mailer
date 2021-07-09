@@ -1,0 +1,23 @@
+{
+  "name": "demo-mailer",
+  "version": "1.0.0",
+  "description": "Built an API in NodeJS using express to send emails using the Gmail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivanshu09/Demo-Mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivanshu09/Demo-Mailer/issues"
+  },
+  "homepage": "https://github.com/Shivanshu09/Demo-Mailer#readme",
+  "dependencies": {
+    "googleapis": "^81.0.0",
+    "nodemailer": "^6.6.2"
+  }
+}
